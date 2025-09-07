@@ -25,7 +25,7 @@ type = "http"
 customDomains = ["your_domain"]
 transport.useEncryption = true
 transport.useCompression = true
-localPort = 8123
+localPort = 18123
 localIP = "0.0.0.0"
 
 # [proxies.plugin]
